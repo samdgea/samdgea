@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samdgea known as Abdilah Sammi
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Laravel & Golang
-- 💞️ I’m looking to collaborate on any Company or any Open Source Project
+- 💞️ I’m looking to collaborate to Open Source Project
 - 📫 How to reach me at https://abdilah.tech
 
 <!---
